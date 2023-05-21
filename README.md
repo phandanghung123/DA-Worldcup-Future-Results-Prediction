@@ -61,7 +61,7 @@ accountable when we make our prediction of which team/country would win the
 All the 21 rankings mean over time are all in the range 55(Saudi Arabia
 approximately 56.647, ). The outliers clearly are Canada and Qatar rank up
 78 and 84 in the FIFA ranking mean since 2000 till now.
-![image](https://github.com/TinChung41/DA-Worldcup-Future-Results-Prediction/assets/98845918/44cb8e44-d704-44db-ad37-ad408adc1de2)
+![image](https://github.com/phandanghung123/DA-Worldcup-Future-Results-Prediction/assets/130640512/4a73c4ee-d0b4-4982-926c-4900d037e62f)
 
 ## Predictions for Knockout Stage - Removing Draw status
 ![image](https://github.com/TinChung41/DA-Worldcup-Future-Results-Prediction/assets/98845918/a410fc83-7a60-40ba-96c9-30e57e848f60)
